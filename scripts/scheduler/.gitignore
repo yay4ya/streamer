@@ -2,7 +2,7 @@
 *.pyc
 *.pyo
 __pycache__
-catflap.egg-info
+streamer.egg-info
 
 
 # testing and continuous integration
