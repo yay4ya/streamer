@@ -1,0 +1,15 @@
+# python
+*.pyc
+*.pyo
+__pycache__
+catflap.egg-info
+
+
+# testing and continuous integration
+.mypy_cache/
+.pytest_cache/
+
+
+# envs
+.venv
+.envrc
