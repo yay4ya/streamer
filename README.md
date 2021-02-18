@@ -1,7 +1,8 @@
 streamer
 ========
 
-[![Actions Status - CI](https://github.com/yay4ya/streamer/workflows/CI/badge.svg)](https://github.com/yay4ya/streamer/actions?query=workflow%3A%22CI%22)
+[![Actions Status - tests](https://github.com/yay4ya/streamer/workflows/tests/badge.svg)](https://github.com/yay4ya/streamer/actions?query=workflow%3A%22tests%22)
+[![Actions Status - deploy](https://github.com/yay4ya/streamer/workflows/deploy/badge.svg)](https://github.com/yay4ya/streamer/actions?query=workflow%3A%22deploy%22)
 
 ## Project setup
 ```
